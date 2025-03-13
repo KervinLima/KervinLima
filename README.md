@@ -1,10 +1,11 @@
 ## Olá! Meu nome é Kervin Delan! 👋
 
-* Experiência acadêmica em áreas relacionadas a Teste deSoftware e Quality Assurance. 
-
-* Tenho como objetivo contribuir profissionalmente como Analista de Teste e Controle de Qualidade. 
-
-* Sempre buscando aprimorar minhas habilidades e adquirir conhecimento em outras stacks.
+Analista de Testes com experiência acadêmica em qualidade de software, especializado na criação e execução de
+testes manuais, testes exploratórios e de regressão. Conhecimento em elaboração de casos de teste, análise e reporte
+de defeitos utilizando ferramentas como Jira e TestRail. Familiaridade com SQL para consulta e manipulação de
+dados, além de conceitos básicos de automação de testes com Cypress, Robot Framework e Postman para testes de
+API. Experiência com metodologias ágeis (Scrum, Kanban) e princípios de BDD. Busco uma oportunidade para
+aplicar e desenvolver minhas habilidades na área de QA
 
 ## Redes Sociais 
 
@@ -43,72 +44,68 @@
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-SUPORTE TÉCNICO CORPORATIVO
-Janeiro/2022 – atual.
-Suporte receptivo para clientes corporativos B2B, focado na
-resolução de questões relacionadas à utilização do provedor
-de internet com ênfase especial em configurações
-empresariais, realizando configurações técnicas routerboard
-Mikrotik na atribuição de endereços IP, implementação de
-DHCP, firewall, entre outros.
+**ANALISTA DE SUPORTE N1/N2 B2B**
 
-SUPORTE TÉCNICO
-Outubro/2020 – Janeiro/2022.
-Suporte receptivo de clientes B2C. Reportando informações e
-orientando em procedimentos a serem executados mediante a
-necessidade do cliente, para a melhoria do serviço e da
-experiência do usuário.
+Janeiro/2021 – Atual.
+• Atendimento a clientes corporativos B2B para solução de problemas técnicos.  
+• Configuração de Routerboard Mikrotik e suporte em configurações empresariais.  
+• Foco na resolução ágil de questões relacionadas ao provedor de internet.  
 
-TÉCNICO DE INFORMÁTICA
-Março/2016 – Dezembro/2016.
-Atuação na instalação, configuração e manutenção de
-computadores, servidores, impressoras e outros dispositivos de
-hardware. Instalar e configurar sistemas operacionais,
-aplicativos e softwares de segurança. Identificar e diagnosticar
-problemas em equipamentos e sistemas. Implementando
-soluções eficazes.
+**TECH LEAD QUALITY ASSURANCE** – Projeto de Gerenciamento Estudantil
+Projeto Multidisciplinar “UniAcademy” na Universidade Federal Rural do Semi-Árido, Janeiro 2024 –
+Maio 2024
 
+• Coordenei as atividades de qualidade do software, garantindo a implementação de boas práticas de testes
+no projeto  
+• Defini a estratégia de testes, incluindo testes manuais e exploratórios, garantindo a cobertura dos principais
+fluxos do aplicativo  
+• Validei cenários de teste com base nos requisitos do projeto, assegurando a entrega de um produto com
+alta qualidade.  
+• Monitoramento e reporte de bugs por meio de ferramentas como Jira/TestRail/Trello, colaborando com a
+equipe de desenvolvimento para correção  
+• Trabalhei em estreita parceria com desenvolvedores, POs e designers em um ambiente ágil
+(Scrum/Kanban), participando ativamente das cerimônias ágeis  
+
+**QUALITY ASSURANCE** - Projeto de Gerenciamento Estudantil
+Projeto Multidisciplinar “UniAcademy” na Universidade Federal Rural do Semi-Árido, Julho 2023 –
+Novembro 2023
+
+• Participação em projeto voluntário voltado para melhorias de usabilidade e testes de
+funcionalidades.  
+• Colaboração na criação de testes de integração e unitários com base em metodologias ágeis
+(TDD).  
+• Identifiquei, documentei e acompanhei a correção de bugs por meio de ferramentas como Jira  
+• Participei de cerimônias ágeis (dailies, plannings, reviews e retros) para alinhamento com a equipe de
+desenvolvimento.  
+• Testei correções de bugs e novas funcionalidades antes da entrega para garantir a conformidade com os
+requisitos do projeto.  
+
+**ANALISTA DE SUPORTE N1 B2C**
+Janeiro/2021 – atual.
+
+• Atendimento receptivo a clientes B2C, com orientação em procedimentos.  
+• Registro e reporte de informações relevantes para melhoria do serviço.  
+• Atuação na melhoria da experiência do cliente e solução de problemas técnicos.
 
 ## FORMAÇÃO ACADÊMICA 
 
-BEL. EM TECNOLOGIA DA INFORMAÇÃO, UNIVERSIDADE
-FEDERAL RURAL DO SEMI-ÁRIDO
+Engenharia de Software, Universidade Federal Rural do Semi-Árido
+(2025 – CURSANDO)  
+Bel. em Tecnologia da Informação, Universidade Federal Rural do Semi-Árido
 (2017 – 2024, COMPLETO)
 
-ENSINO MÉDIO, ESCOLA NORMAL RURAL DE LIMOEIRO
-(2013 – 2015, COMPLETO)
+## HABILIDADES E COMPETÊNCIAS
+• Ferramentas: JIRA, Trello, TestRail  
+• Metodologias Ágeis: Scrum, Kanban, TDD, BDD  
+• Linguagens e Banco de Dados: SQL, NoSQL, Postgres, Lógica de Programação  
 
-CERTIFICADO, 2º Temporada QA Week pela BeeLab Academy
-
-CERTIFICADO, Testes Automáticos + Curso COMPLETO de Teste
-de Software por Gustavo Farias - UDEMY
-
-## SKILL
-
-Identificação rápida e eficaz de problemas no sistema.
-
-Diagnóstico preciso de falhas para implementação de
-soluções.
-
-Proatividade, Senso Crítico.
-
-Avaliação minuciosa da usabilidade e funcionalidade do
-software.
-
-Implementação de testes para garantir que as atualizações não
-afetem funcionalidades existentes.
-
-Documentação de casos de uso de testes.
-Colaboração efetiva em equipe.
-
-## HARD SKILL
-
-Me sinto confiante em:
-Especificação de casos de teste, Especificação de planos de
-testes, Troubleshooting, Testes Manuais, Testes Caixa Preta,
-Testes Funcionais, Testes Regressivos, SQL, Testes para
-Redução de Riscos.
-
-Com ajuda posso trabalhar com:
-Testes Automatizados, Testes de API, Selenium, Cypress, JUnit,
-Robot Framework, Postman.
+## CERTIFICAÇÕES E CURSOS
+● Testes Automáticos + Curso COMPLETO de Teste de Software – Gustavo Farias  
+● Javascript para testers – Qazando Cursos  
+● Gestão Ágil de Projetos com Scrum e Kanban do zero - Ana G. Soares  
+● Cypress eXpress – Fernando Papito QAX  
+● Javascript para QAs – Fernando Papito QAX  
+● Curso de Git Para Testers – Qazando Cursos  
+● Iniciando na área de testes de software – Gustavo Eduardo Silva Machado  
+● BDD eXpress – Fernando Papito QAX  
+● Soft Skills - Prime Cursos  
